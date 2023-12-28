@@ -1,2 +1,2 @@
 # Tik-Tak-Toe_game_Project
-This is my first project
+This is my first Git Repository.
