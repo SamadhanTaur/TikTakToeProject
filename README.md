@@ -1,2 +1,2 @@
-# Tik-Tok-Toe_game_Project
+# Tik-Tak-Toe_game_Project
 This is my first project
