@@ -1,4 +1,4 @@
-# Tik-Tak-Toe_game_Project
+# TikTakToeProject
 This is my first Git Repository.
 <br>
 Author - Samadhan Taur
